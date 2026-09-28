@@ -1,2 +1,9 @@
 # 26IT--PF-Labs
-My Programming fundamentals Lab Tasks |Quest Nawabshah 26IT Batch 
+My Programming Fundamentals Lab Tasks
+Student: Saeed Ahmed Mari
+Department: BSIT - QUEST Nawabshah
+Batch: 26IT
+Language: C++
+
+## Lab List
+- Lab 01: Hello World
